@@ -1,0 +1,14 @@
+Goals;
+the goal of this program is the create a virtual pet program that will have a number of attributes to represent the state of the pet
+Inputs;
+the user is going to in either have to option either to Add new pet (1)Feed Pets,(2)Play with the monkey,(3)Run with Dog,(4)Get Pets hunger level ,(5)Get All Pets ,(6)Grow all pets by 1 year (7),Put all pets to sleep (8)
+or Exit (9)
+OutPuts;
+The output is going to be the user's choice based on the choices above in the input section
+Steps;
+-create a attribute that will hold an arrayList of values, wer will also have two functions one is decreaseValue and the other one is increaseValue and the idea behind this is
+to control the status of every animal for example of the animal is hungry and you give him food there are going to be a list of strings and based on if you give him food or not
+his hunger is either going to increase in value or decrease in value, to be more specific if we will have 4 strings (happy,kinda happy,sad,very sad) and the decrease or increase
+are going to be decided bas on that
+-then we will create various classes with an attribute type
+-and then the user class is going to control and print everything out.
